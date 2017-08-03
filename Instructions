@@ -1,0 +1,10 @@
+Instructions
+
+New Levels:
+To make new levels, the easiest way is to duplicate one of the existing levels, and tweak it. You also need to create the corresponding rules to the controller script, and add the new level to the LevelControl script.
+
+More than 2 firewalls:
+To add more than 2 firewalls, some rework of functions will be needed. You will also have to create a new scriptableObject to hold the data.
+
+The main Scene:
+This Scene is not accessible from within the game and is to be used for testing.
