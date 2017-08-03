@@ -1,5 +1,8 @@
 Instructions
 
+Code:
+All of the code is commented and should be relatively easy to understand.
+
 New Levels:
 To make new levels, the easiest way is to duplicate one of the existing levels, and tweak it. You also need to create the corresponding rules to the controller script, and add the new level to the LevelControl script.
 
